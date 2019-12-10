@@ -15,4 +15,4 @@ cd Object-Detection-Module; mkdir build; cd build; cmake ..; make; cd app; ./col
 ```
 Once built
 ```
-cd Object-Detection-Module; cd build; cd app; ./colorDetect
+cd workspace; Object-Detection-Module; cd build; cd app; ./colorDetect
