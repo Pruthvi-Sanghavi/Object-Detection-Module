@@ -1,4 +1,5 @@
 # Object Detection Module
+
 #### This module requires openCV as a dependency.
 Therefore, install openCV using the command in the terminal
 ```
